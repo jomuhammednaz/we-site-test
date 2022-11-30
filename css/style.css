@@ -1,0 +1,64 @@
+body{
+    height: 1500px;
+
+}
+
+
+.h2 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+.h6 {
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+}
+.col {
+    margin-left: 140px;
+}
+.card-title {
+    text-align: center;
+    color: darkblue;
+}
+
+.p {
+    text-align: center;
+    color: rgb(194, 7, 100);
+}
+.pp {
+    text-align: center;
+    color: red;
+}
+.social {
+display: flex;
+justify-content: space-around;
+font-size: 31px;
+}
+.h1 {
+    text-align: center;
+    color: red;
+
+}
+.h33 {
+    text-align: center;
+    color: blue;
+}
+.eye {
+    display: flex;
+   justify-content: space-around;
+   font-size: 25px;
+   margin-top: 20px;
+   color: red;
+}
+.r{
+    margin-left: 440px;
+}
+.l{
+    margin-right: 440px;
+}
+.wep-1{
+    margin-left: 600px;
+    color: red;
+    
+}
